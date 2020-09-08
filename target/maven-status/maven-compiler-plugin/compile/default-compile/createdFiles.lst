@@ -1,0 +1,12 @@
+GAJI/MyPage.class
+GAJI/PolicyHandler.class
+GAJI/config/kafka/KafkaProcessor.class
+GAJI/AbstractEvent$1.class
+GAJI/AbstractEvent.class
+GAJI/MyPageViewHandler.class
+GAJI/Bought.class
+GAJI/MyPageRepository.class
+GAJI/MypageApplication.class
+GAJI/Canceled.class
+GAJI/Deleted.class
+GAJI/Registered.class
